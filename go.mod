@@ -1,4 +1,4 @@
-module github.com/hakluke/hakaxrf
+module github.com/hakluke/hakaxfr
 
 go 1.16
 
